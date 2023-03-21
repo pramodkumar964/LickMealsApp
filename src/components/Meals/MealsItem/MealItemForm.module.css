@@ -1,0 +1,26 @@
+
+.mealForm{
+    /* background-color: rgb(166, 219, 166); */
+    width: 120%;
+    height: 70%;
+    border-radius: 5rem;
+   justify-content: space-around;
+   align-items: center;
+
+}
+
+.button{
+    margin :10px;
+    background-color: #4d1601;
+   color: white;
+   align-items: f;
+
+    border-radius: 10rem; 
+   padding-left: 10%;
+   margin-left: 50%;   
+   border-color: #4d1601;
+   text-align: center;
+}
+
+  
+
